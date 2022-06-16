@@ -1,0 +1,2 @@
+const DRAFT_PICK_STAGE_Id = 'DRAFT_PICK_STAGE_Id'
+const DRAFT_PICK_STAGE_ACTION_PREFIX = 'draft-pick-stage/'
